@@ -3,7 +3,7 @@
 
 Plugin that add a global variables for VuePress.
 
-![Version](https://img.shields.io/github/package-json/v/zpfz/vuepress-plugin-global-variables?style=flat-square)
+![Version](https://img.shields.io/github/package-json/v/demtario/vuepress-plugin-global-variables?style=flat-square)
 ![NPM](https://img.shields.io/npm/l/vuepress-plugin-global-variables?style=flat-square)
 
 </div>
