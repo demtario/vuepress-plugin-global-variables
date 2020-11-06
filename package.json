@@ -1,0 +1,18 @@
+{
+  "name": "vuepress-plugin-global-variables",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Artur Mędrygał",
+  "license": "MIT",
+  "keywords": [
+    "global",
+    "global-variables",
+    "vue",
+    "vuepress"
+  ],
+  "homepage": "https://github.com/demtario/vuepress-plugin-global-variables",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demtario/vuepress-plugin-global-variables.git"
+  }
+}
