@@ -25,11 +25,15 @@ module.exports = {
 }
 ```
 
-Now, you can simply use `this.$page.global[key]` to get your variable in any template or component.
+Now, you can simply use `$var[key]` or `this.$page.global[key]` to get your variable in any template or component.
 
 Example:
 
 ```vue
+{{ $var.example }}
+
+// or
+
 {{ $page.global.example }}
 ```
 
